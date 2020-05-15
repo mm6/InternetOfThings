@@ -135,4 +135,5 @@ If the situation is life threatening, call the police:
 
 On campus: CMU Police: 412-268-2323
 
-Off campus in Pittsburgh: 911 
+Off campus in Pittsburgh: 911
+Off campus in Adelaide: 
